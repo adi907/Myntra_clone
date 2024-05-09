@@ -187,11 +187,9 @@ footer{
 }
 
 .original{
-    display: grid;
-    grid-template-columns: 1fr 2fr 3fr;
-    
-    grid-gap: 0px;
+    display: flex;
 }
+
 .original img{
     width: 50px;
 }
